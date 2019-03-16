@@ -39,7 +39,7 @@ static void repeat(String word, int times) {
 static void theBest(String Best){
 	System.out.println("theBest");
 }
-static void add(int a, int b){
+static int add(int a, int b){
 	return a+b;
 }
 }
